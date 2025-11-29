@@ -11,7 +11,7 @@ public class App
         System.out.println("This is a git basics repo");
 
 
-
+        System.out.println("THis is a way to display merge conflicts");
 
 
 
